@@ -10,7 +10,7 @@ jump-app-micros:
     namespace: istio-system
     mtls: true
   cicd:
-    namespace: user08-jump-app-dev
+    namespace: user08-jump-app-cicd
   knative:
     enabled: false
 
